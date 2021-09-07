@@ -16,6 +16,7 @@ files=(
   "packages/mobile/ios/GoogleService-Info.mainnetdev.plist:celo-testnet"
   "packages/mobile/ios/sentry.properties:celo-testnet"
   "packages/mobile/secrets.json:celo-testnet"
+  "packages/mobile/e2e/.env:celo-testnet"
   "packages/notification-service/config/config.mainnet.env:celo-testnet"
   "packages/notification-service/config/config.alfajores.env:celo-testnet"
   "packages/cloud-functions/config/rampProduction.pem:celo-testnet"
